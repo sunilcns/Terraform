@@ -1,2 +1,2 @@
 # Terraform
-This repo to frame some terraform structures in AWS cloud 
+This repo to create some terraform prototypes in AWS cloud 
